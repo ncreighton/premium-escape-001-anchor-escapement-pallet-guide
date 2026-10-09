@@ -1,0 +1,2 @@
+# premium-escape-001-anchor-escapement-pallet-guide
+Struggling to visualize how anchor escapement pallets actually function? Most guides bury the mechanics in dense text, leaving you confused about pallet geometry, impulse angles, and locking surfaces.  The Anchor Escapement Pallet Guide is a fully interactive Notion template that breaks down every component of anchor escapements into digestible, vi
